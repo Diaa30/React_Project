@@ -1,0 +1,11 @@
+.bg-color {
+  background-color: #1abc9c;
+}
+.header-span-about {
+  width: 70px;
+  height: 2px;
+  background-color: #fff;
+}
+.home {
+  padding: 3rem 10rem 10rem;
+}
